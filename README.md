@@ -38,7 +38,7 @@ This link can be found in the green code button at the top of this page under th
 
 ### **Step 2: Install Project Dependencies:**
 
-In the same terminal window you used to clone the repository, do the following step by step:
+In the same terminal window you used to clone the repository, do the following step by step:<br>
 `pip install pandas`<br>
 `pip install numpy`<br>
 `pip install matplotlib`<br>
