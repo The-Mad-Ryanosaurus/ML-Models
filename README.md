@@ -12,7 +12,7 @@ This repository focuses on the classification of driving styles through the anal
 
 ### **Jupyter Notebook Overview**
 
-- **Project Notebook:** A comprehensive Jupyter Notebook that encompasses the entire project workflow — from data loading and preprocessing, feature selection, and exploratory data analysis to the training, validation, and evaluation of machine learning models (SVM, Logistic Regression and kNN). 
+- **Project Notebook:** A comprehensive Jupyter Notebook that encompasses the entire project workflow — from data loading to data analysis to the training, validation, and evaluation of machine learning models (SVM, Logistic Regression and kNN). 
 
 ### **Installation Setup Guide**
 
