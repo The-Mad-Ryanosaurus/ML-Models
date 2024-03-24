@@ -39,10 +39,10 @@ This link can be found in the green code button at the top of this page under th
 ### **Step 2: Install Project Dependencies:**
 
 In the same terminal window you used to clone the repository, do the following step by step:
-`pip install pandas`
-`pip install numpy`
-`pip install matplotlib`
-`pip install seaborn`
+`pip install pandas`<br>
+`pip install numpy`<br>
+`pip install matplotlib`<br>
+`pip install seaborn`<br>
 `pip install scikit-learn`
 
 Remember to restart the Jupyter kernel if you encounter any import errors after installation.
